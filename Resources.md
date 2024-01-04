@@ -1,7 +1,5 @@
 # Resources
 
-Test
-
 ## Colorado State Public Assistance Programs 
 
 Looks like you could apply for most (all?) of these benefits at [Colorado PEAK](https://peak.my.site.com/peak/s/peak-landing-page?language=en_US).
@@ -113,5 +111,5 @@ Provides meals, food, clothing, rent and utility payments, access to health care
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MTY1NDgxOSw0MTE3MDg4NTddfQ==
+eyJoaXN0b3J5IjpbNDExNzA4ODU3LDQxMTcwODg1N119
 -->
