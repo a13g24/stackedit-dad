@@ -20,6 +20,27 @@ Relevant services include:
 
 [Older adult services | Colorado Department of Human Services](https://cdhs.colorado.gov/our-services/older-adult-services)
 
+### Employment Assistance
+
+- Colorado Employment First
+- ReHire Colorado
+- Senior Employment
+- CW STEP
+
+[Employment assistance | Colorado Department of Human Services](https://cdhs.colorado.gov/benefits-assistance/employment-assistance)
+
+### Cash Assistance
+
+- Colorado Works
+	- Probably not eligible for this
+- Adult Financial Programs
+	- There's a number of programs here, some probably not eligible for, but the ones he *may* be are:
+		- Old Age Pension program
+		- Personal Needs Allowance program
+
+[Cash assistance | Colorado Department of Human Services](https://cdhs.colorado.gov/benefits-assistance/cash-assistance)
+
+
 ### Mental Health
 
 #### Colorado's Behavioral Health Administration
@@ -50,25 +71,7 @@ Helps eligible hard-working Colorado families, seniors and individuals pay a por
 
 [Food assistance | Colorado Department of Human Services](https://cdhs.colorado.gov/benefits-assistance/food-assistance)
 
-### Employment Assistance
 
-- Colorado Employment First
-- ReHire Colorado
-- Senior Employment
-- CW STEP
-
-[Employment assistance | Colorado Department of Human Services](https://cdhs.colorado.gov/benefits-assistance/employment-assistance)
-
-### Cash Assistance
-
-- Colorado Works
-	- Probably not eligible for this
-- Adult Financial Programs
-	- There's a number of programs here, some probably not eligible for, but the ones he *may* be are:
-		- Old Age Pension program
-		- Personal Needs Allowance program
-
-[Cash assistance | Colorado Department of Human Services](https://cdhs.colorado.gov/benefits-assistance/cash-assistance)
 
 ## County 
 
@@ -111,5 +114,6 @@ Provides meals, food, clothing, rent and utility payments, access to health care
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDExNzA4ODU3LDQxMTcwODg1N119
+eyJoaXN0b3J5IjpbMTE4MDY0NTcyMSw0MTE3MDg4NTcsNDExNz
+A4ODU3XX0=
 -->
