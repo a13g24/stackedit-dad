@@ -73,12 +73,11 @@ Not sure if he'd qualify for this, but worth looking into.
 
 [Mental Health Transitional Living Homes | Colorado Department of Human Services](https://cdhs.colorado.gov/mental-health-transitional-living-homes)
 
+## Federal
 
+HUD has a nice *search for an apartment* map that shows private rentals with 
 
-
-
-
-
+[Rental Assistance | HUD.gov / U.S. Department of Housing and Urban Development (HUD)](https://www.hud.gov/topics/rental_assistance)
 
 ## County 
 
@@ -91,6 +90,8 @@ Broomfield has financial assistance, information/assistance program and a bunch 
 [Helpful Resources | City and County of Broomfield](https://www.broomfield.org/368/Helpful-Resources)
 
 [Benefits and Assistance | City and County of Broomfield](https://www.broomfield.org/2952/Benefits-and-Assistance)
+
+
 
 ## Nonprofits
 
@@ -121,6 +122,6 @@ Provides meals, food, clothing, rent and utility payments, access to health care
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzgwNTQ5NTMsNDExNzA4ODU3LDQxMT
-cwODg1N119
+eyJoaXN0b3J5IjpbMTg3MjAxNjk3OSw0MTE3MDg4NTcsNDExNz
+A4ODU3XX0=
 -->
