@@ -41,6 +41,22 @@ Relevant services include:
 [Cash assistance | Colorado Department of Human Services](https://cdhs.colorado.gov/benefits-assistance/cash-assistance)
 
 
+### Food Assistance
+
+- SNAP
+- SNAP-Ed
+- Food distribution
+
+[Food assistance | Colorado Department of Human Services](https://cdhs.colorado.gov/benefits-assistance/food-assistance)
+
+
+
+### Energy Assistance
+
+Helps eligible hard-working Colorado families, seniors and individuals pay a portion of their winter home heating costs.
+
+[Colorado Low-income Energy Assistance Program (LEAP) | Colorado Department of Human Services](https://cdhs.colorado.gov/leap)
+
 ### Mental Health
 
 #### Colorado's Behavioral Health Administration
@@ -57,19 +73,10 @@ Not sure if he'd qualify for this, but worth looking into.
 
 [Mental Health Transitional Living Homes | Colorado Department of Human Services](https://cdhs.colorado.gov/mental-health-transitional-living-homes)
 
-### Energy Assistance
 
-Helps eligible hard-working Colorado families, seniors and individuals pay a portion of their winter home heating costs.
 
-[Colorado Low-income Energy Assistance Program (LEAP) | Colorado Department of Human Services](https://cdhs.colorado.gov/leap)
 
-### Food Assistance
 
-- SNAP
-- SNAP-Ed
-- Food distribution
-
-[Food assistance | Colorado Department of Human Services](https://cdhs.colorado.gov/benefits-assistance/food-assistance)
 
 
 
@@ -114,6 +121,6 @@ Provides meals, food, clothing, rent and utility payments, access to health care
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MDY0NTcyMSw0MTE3MDg4NTcsNDExNz
-A4ODU3XX0=
+eyJoaXN0b3J5IjpbLTE3MzgwNTQ5NTMsNDExNzA4ODU3LDQxMT
+cwODg1N119
 -->
