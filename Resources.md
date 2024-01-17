@@ -75,7 +75,7 @@ Not sure if he'd qualify for this, but worth looking into.
 
 ## Federal
 
-HUD has a nice *search for an apartment* map that shows private rentals with 
+HUD has a nice *search for an apartment* map that shows private rentals at a reduced price.
 
 [Rental Assistance | HUD.gov / U.S. Department of Housing and Urban Development (HUD)](https://www.hud.gov/topics/rental_assistance)
 
@@ -120,8 +120,12 @@ Provides meals, food, clothing, rent and utility payments, access to health care
 
 [Senior Support Services](https://www.seniorsupportservices.org/)
 
+### Low Income Housing Apartments
 
+Good general search engine for low income housing.
+
+[Low Income Housing and Apartments](https://www.lowincomehousing.us/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MjAxNjk3OSw0MTE3MDg4NTcsNDExNz
-A4ODU3XX0=
+eyJoaXN0b3J5IjpbLTEwMzYwNTA2NzAsNDExNzA4ODU3LDQxMT
+cwODg1N119
 -->
