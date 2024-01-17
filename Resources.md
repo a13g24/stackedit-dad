@@ -95,16 +95,15 @@ Broomfield has financial assistance, information/assistance program and a bunch 
 
 [Denver Regional Council of Governments, Colorado (networkofcare.org)](https://denverregion.co.networkofcare.org/aging/services/index.aspx)
 
-### Colorado Association of Area Agencies on Aging
+### Colorado Association of Area Agencies on Aging (AAA)
 
-[Home - C4A-Colorado.org](https://www.c4a-colorado.org/)
-
+- [Home - C4A-Colorado.org](https://www.c4a-colorado.org/)
+- [PDF Map of Contacts for AAA](https://www.c4a-colorado.org/wp-content/uploads/2024/01/7-24-23-AAA-Colored-Map-LIST-2-PAGES-PUBLIC.pdf)
 
 
 ### Links
 
 Tons of local resources here.
-
 [Links for local Denver Regional Council of Governments sites, government programs, and nonprofit organizations. Denver Regional Council of Governments, Colorado (networkofcare.org)](https://denverregion.co.networkofcare.org/aging/links/index.aspx?tab=local)
 
 ## Nonprofits
@@ -144,6 +143,6 @@ Good general search engine for low income housing.
 
 [Low Income Housing and Apartments](https://www.lowincomehousing.us/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExODkwMzA0NSwtMTAzNjA1MDY3MCw0MT
+eyJoaXN0b3J5IjpbMTMyODIwMTIzMCwtMTAzNjA1MDY3MCw0MT
 E3MDg4NTcsNDExNzA4ODU3XX0=
 -->
