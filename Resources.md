@@ -79,7 +79,7 @@ HUD has a nice *search for an apartment* map that shows private rentals at a red
 
 [Rental Assistance | HUD.gov / U.S. Department of Housing and Urban Development (HUD)](https://www.hud.gov/topics/rental_assistance)
 
-## County 
+## Local
 
 There seems to be various county level assistance programs as well. Not sure if he'd qualify since he's *nomadic/homeless* and isn't a resident of any county. 
 
@@ -91,6 +91,9 @@ Broomfield has financial assistance, information/assistance program and a bunch 
 
 [Benefits and Assistance | City and County of Broomfield](https://www.broomfield.org/2952/Benefits-and-Assistance)
 
+### Denver
+
+[Denver Regional Council of Governments, Colorado (networkofcare.org)](https://denverregion.co.networkofcare.org/aging/services/index.aspx)
 
 
 ## Nonprofits
@@ -126,6 +129,6 @@ Good general search engine for low income housing.
 
 [Low Income Housing and Apartments](https://www.lowincomehousing.us/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzYwNTA2NzAsNDExNzA4ODU3LDQxMT
-cwODg1N119
+eyJoaXN0b3J5IjpbMTAwMTI1NzAyLC0xMDM2MDUwNjcwLDQxMT
+cwODg1Nyw0MTE3MDg4NTddfQ==
 -->
