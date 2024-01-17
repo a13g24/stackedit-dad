@@ -95,9 +95,12 @@ Broomfield has financial assistance, information/assistance program and a bunch 
 
 [Denver Regional Council of Governments, Colorado (networkofcare.org)](https://denverregion.co.networkofcare.org/aging/services/index.aspx)
 
+
+
 ### Links
 
-Tons 
+Tons of local resources here.
+
 [Links for local Denver Regional Council of Governments sites, government programs, and nonprofit organizations. Denver Regional Council of Governments, Colorado (networkofcare.org)](https://denverregion.co.networkofcare.org/aging/links/index.aspx?tab=local)
 
 ## Nonprofits
@@ -137,6 +140,6 @@ Good general search engine for low income housing.
 
 [Low Income Housing and Apartments](https://www.lowincomehousing.us/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgwMjY4MzA1LC0xMDM2MDUwNjcwLDQxMT
+eyJoaXN0b3J5IjpbMjgyMjEyMDQ0LC0xMDM2MDUwNjcwLDQxMT
 cwODg1Nyw0MTE3MDg4NTddfQ==
 -->
